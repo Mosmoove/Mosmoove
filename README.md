@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mohamednasiradeen27@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1S9iGfqVz64Mfieemul5FaMLTkBYP_OTU5iLgWapVRgs/edit](https://docs.google.com/document/d/1S9iGfqVz64Mfieemul5FaMLTkBYP_OTU5iLgWapVRgs/edit)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1S9iGfqVz64Mfieemul5FaMLTkBYP_OTU5iLgWapVRgs/edit)
 
 - ⚡ Fun fact **I love Liverpool FC**
 
