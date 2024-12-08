@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **an AI Rate My Professor web app**
 
-- 🌱 I’m currently learning **React, NextJS, Firebase, AWS, Pinecone**
+- 🌱 I’m currently learning **React, NextJS, Firebase, AWS, Django**
 
 - 👯 I’m looking to collaborate on **AI/ML projects**
 
