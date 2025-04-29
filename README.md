@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **A Skin Cancer Detection project**
 
-- 🌱 I’m currently learning **React, NextJS, AWS, Django, PyTorch**
+- 🌱 I’m currently learning **React, NextJS, AWS, Django, TensorFlow**
 
 - 👯 I’m looking to collaborate on **AI/ML projects**
 
