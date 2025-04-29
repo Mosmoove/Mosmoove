@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Awad</h1>
-<h3 align="center">A passionate ML/SWE Engineer bringing skills to the table to stay on the cutting edge of technology</h3>
+<h3 align="center">A self-driven Software Engineer bringing skills to the table to stay on the cutting edge of technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosmoove&label=Profile%20views&color=0e75b6&style=flat" alt="mosmoove" /> </p>
 
