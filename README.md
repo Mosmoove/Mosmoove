@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamed Awad</h1>
-<h3 align="center">A passionate ML/SWE Engineer bringing skills to the table to stay on the cutting edge of technology</h3>
+<h3 align="center">A passionate AI/Data/SWE Engineer bringing skills to the table</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosmoove&label=Profile%20views&color=0e75b6&style=flat" alt="mosmoove" /> </p>
 
 - 🔭 I’m currently working on **A Facial Recognition tool using OpenCV**
 
-- 🌱 I’m currently learning **React, NextJS, Firebase, AWS, Django, TensorFlow**
+- 🌱 I’m currently learning **React, NextJS, Firebase, TensorFlow**
 
 - 👯 I’m looking to collaborate on **AI/ML projects**
 
-- 💬 Ask me about **SWE or ML**
+- 💬 Ask me about **SWE, AI/ML, or Data**
 
 - 📫 How to reach me **mohamednasiradeen27@gmail.com**
 
