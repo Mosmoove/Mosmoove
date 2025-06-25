@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosmoove&label=Profile%20views&color=0e75b6&style=flat" alt="mosmoove" /> </p>
 
-- 🔭 I’m currently working on **A Facial Recognition tool using OpenCV**
+- 🔭 I’m currently working on **An AI Agent in Python**
 
 - 🌱 I’m currently learning **React, NextJS, Firebase, TensorFlow**
 
