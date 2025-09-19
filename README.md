@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **An AI Meal Planner Using the Gemini API**
 
-- 🌱 I’m currently learning **React, NextJS, Firebase, TensorFlow**
+- 🌱 I’m currently learning **React, SQL, Machine Learning**
 
-- 👯 I’m looking to collaborate on **AI/ML projects**
+- 👯 I’m looking to collaborate on **AI/Data projects**
 
 - 💬 Ask me about **SWE, AI/ML, or Data**
 
