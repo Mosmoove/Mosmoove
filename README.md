@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosmoove&label=Profile%20views&color=0e75b6&style=flat" alt="mosmoove" /> </p>
 
-- 🔭 I’m currently working on **An AI Agent in Python and LangChain**
+- 🔭 I’m currently working on **An AI Meal Planner Using the Gemini API**
 
 - 🌱 I’m currently learning **React, NextJS, Firebase, TensorFlow**
 
