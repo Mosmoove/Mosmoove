@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **An AI Meal Planner Using the Gemini API**
 
-- 🌱 I’m currently learning **React, SQL, Machine Learning**
+- 🌱 I’m currently learning **SQL, Machine Learning**
 
 - 👯 I’m looking to collaborate on **AI/Data projects**
 
