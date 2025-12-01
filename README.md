@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosmoove&label=Profile%20views&color=0e75b6&style=flat" alt="mosmoove" /> </p>
 
-- 🔭 I’m currently working on ** training AI to tag products, people and places to advance AI's understanding as a Fellow at Handshake AI**
+- 🔭 I’m currently working on **training AI to tag products, people and places to advance AI's understanding as a Fellow at Handshake AI**
 
 - 🌱 I’m currently learning **SQL, Python, RAG, Machine Learning**
 
