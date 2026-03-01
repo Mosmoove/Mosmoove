@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **training AI to tag products, people and places to advance AI's understanding as a Fellow at Handshake AI**
 
-- 🌱 I’m currently learning **SQL, Python, RAG, Machine Learning**
+- 🌱 I’m currently learning **SQL, Python, RAG, Docker, Machine Learning**
 
 - 👯 I’m looking to collaborate on **AI & Data Engineering projects**
 
