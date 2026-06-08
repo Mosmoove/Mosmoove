@@ -36,6 +36,12 @@
 
  <img align = 'left' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width='40' height='40' />
 
+<img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" width="40" height="40" alt="langchain" />
+  <img src="https://www.vectorlogo.zone/logos/anthropic/anthropic-icon.svg" width="40" height="40" alt="claude" />
+</p>
+<img src="https://www.vectorlogo.zone/logos/llamaindex/llamaindex-icon.svg" width="40" height="40" alt="llamaindex" />
+</p>
+
  
 <img align = "left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width = "40" height = '40' />
 
