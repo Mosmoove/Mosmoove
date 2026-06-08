@@ -24,13 +24,13 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width='40' height='40' />
+<img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width='40' height='40' />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width='40' height='40' />
+<img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width='40' height='40' />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width='40' height='40' />
+<img align='left' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width='40' height='40' />
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
+ <img align = 'left' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width='40' height='40' />
           
           
           
@@ -40,6 +40,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mosmoove&show_icons=true&locale=en&layout=compact" alt="mosmoove" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mosmoove&show_icons=true&locale=en" alt="mosmoove" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mosmoove&" alt="mosmoove" /></p>
