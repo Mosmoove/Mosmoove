@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working as a Tech Fellow @ CodePath
   
-- 🌱 I’m currently learning **SQL, Python, RAG, Docker, Machine Learning**
+- 🌱 I’m currently learning **SQL, Python, RAG, Data Engineering Fundamentals, Machine Learning**
 
 - 👯 I’m looking to collaborate on **AI & Data Engineering projects**
 
