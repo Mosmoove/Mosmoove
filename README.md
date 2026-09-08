@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning **SQL, Python, RAG, Data Engineering Fundamentals, Machine Learning**
 
-- 👯 I’m looking to collaborate on **AI & Data Engineering projects**
+- 👯 I’m looking to collaborate on **AI & Data Engineering/Science projects**
 
 - 📫 How to reach me **mohamednasiradeen27@gmail.com**
 
